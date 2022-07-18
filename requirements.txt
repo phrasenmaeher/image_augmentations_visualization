@@ -1,0 +1,5 @@
+numpy
+streamlit
+matplotlib
+albumentations
+watchdog
