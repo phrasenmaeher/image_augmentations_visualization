@@ -1,5 +1,5 @@
 numpy
-streamlit
+streamlit==1.11.0
 matplotlib
 albumentations
 watchdog
